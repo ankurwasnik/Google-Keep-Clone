@@ -1,0 +1,15 @@
+.container{
+    max-height: 50;
+    background-color: whitesmoke;
+    margin: 16px auto;
+    width: 100%;
+    padding: 8px;
+}
+
+.btn{
+    background-color: orangered;
+    color: white;
+    margin: 8px 4px;
+    
+   
+}
