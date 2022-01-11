@@ -1,12 +1,41 @@
 # Google-Keep-Clone
-This is my first ReactJS project from scratch.
+This is my first ReactJS project from scratch.\
+This is the clone of Google Keep web application. I am still learning the website designing. Also, I have implemented the basic functionality of adding and deleting the notes after its completed.
+
+- Technology Stack
+    - ReactJS (New)
+    - HTML5
+    - CSS3
+    - JavaScript
+
+- What I have learned ?
+    - Props management
+    - State management
+    - Create Custom Components
+    - Arrow functions
+    - Object and array destructing
+    - Spread Operator ... 
+
 ## Installation
 - First install node modules with command `npm install`
 - Go to Google-Keep-Clone directory `cd Google-Keep-Clone`
 - To start project run `npm start`
     - It starts on localhost 3000 port
 
-# Getting Started with Create React App
+## Suggestions | Feedback
+I am happy to solve your issues and learn from you.\
+Your suggestions will help me choose the correct practices in software engineering.\
+Thank You.
+
+## Contact
+Author : Ankur Wasnik
+Last Modified : 12th Jan 2022
+Twitter Handle : @ankurwasnik358
+Instagram Handle : @ankurwasnik358
+
+***
+# ReactJS documentation
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
